@@ -14,6 +14,7 @@ Secure APIs with JWT & RBAC
 🎯 Looking for my first opportunity in IT as a Backend Developer
 
 🔥 Featured Project
+
 🏦 Resurrection Finance - Event-Driven Banking System
 
 👉 https://github.com/marcoslabourdette/resurrection-finance-api
