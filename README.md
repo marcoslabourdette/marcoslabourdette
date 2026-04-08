@@ -6,10 +6,10 @@ Hi! I'm <a href="https://www.linkedin.com/in/marcoslabourdette/">Marcos</a>
 
 🚀 Currently building real-world projects with:
 
-Event-Driven Architecture (Kafka)
-Transactional Outbox Pattern
-WebSockets for real-time systems
-Secure APIs with JWT & RBAC
+- Event-Driven Architecture (Kafka)
+- Transactional Outbox Pattern
+- WebSockets (real-time systems)
+- Secure APIs (JWT & RBAC)
 
 🎯 Looking for my first opportunity in IT as a Backend Developer
 
