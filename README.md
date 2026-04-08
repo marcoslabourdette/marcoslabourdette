@@ -21,10 +21,10 @@ Hi! I'm <a href="https://www.linkedin.com/in/marcoslabourdette/">Marcos</a>
 
 A distributed banking system with:
 
-Microservices architecture
-Kafka-based event streaming
-Real-time notifications via WebSockets
-Transactional Outbox Pattern for data consistency
+- Microservices architecture
+- Kafka-based event streaming
+- Real-time notifications via WebSockets
+- Transactional Outbox Pattern for data consistency
 
 ## 🛠️ Tech Stack & Infrastructure
 *   **Languages:** Java (Core API) & JavaScript.
